@@ -1,2 +1,2 @@
 # JAVATraining
-All assignments from Java Day 3
+Assignments from Java training Day 3
