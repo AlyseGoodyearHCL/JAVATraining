@@ -1,2 +1,2 @@
 # JAVATraining
-All assignments are seperated into branches by days
+All assignments from Java Day 3
